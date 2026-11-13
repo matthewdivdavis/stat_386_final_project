@@ -1,0 +1,153 @@
+agent,item,description,buff,date
+CYPHER,Spycam,Cooldown after being destroyed decreased from 60s >>> 45s.,,2026-11-10T14:00:00.000Z
+CYPHER,Spycam,"Reclaim cooldown increased from 15s >>> 20s, in line with other Sentinels",,2026-11-10T14:00:00.000Z
+KILLJOY,Turret,Cooldown after being destroyed decreased from 60s >>> 45s.,,2026-11-10T14:00:00.000Z
+VYSE,Arc Rose,Cooldown after being destroyed decreased from 60s >>> 45s,,2026-11-10T14:00:00.000Z
+SAGE,,Increased accuracy while targeting allies,,2026-11-10T14:00:00.000Z
+SAGE,,Crosshair is now visible while targeting with Healing Orb,,2026-11-10T14:00:00.000Z
+HUSH,,"Hailing from Guangdong province, Hush uses her telekinesis to close the most classified cases. Fighting with precision and finesse, she redirects her combat utility in midair to disrupt and displace the enemy team before suspending them helplessly for the killing blow.",,2026-10-27T13:00:00.000Z
+HUSH,Telekinesis (Passive),"Hush can pick up weapons, the Spike (when on attacker side), and INTERACT with switches from an increased range.",,2026-10-27T13:00:00.000Z
+HUSH,Displacement,"EQUIP Displacement. FIRE to throw. ALT FIRE to prepare it instead. REACTIVATE to direct it towards your crosshair. Explodes on any surface or after a delay, pulling all players towards the center and concussing them if they collide with any surface or another player. Resets every two kills.",,2026-10-27T13:00:00.000Z
+HUSH,Flashbulb,"EQUIP Flashbulb. FIRE to throw. ALT FIRE to prepare it instead. REACTIVATE to direct it towards your crosshair. Explodes on any surface or after a delay, flashing all players looking at it.",,2026-10-27T13:00:00.000Z
+HUSH,Flow,"INSTANTLY create an anchor. If Hush is in the air, briefly levitate in place. After a delay, propel towards it.",,2026-10-27T13:00:00.000Z
+HUSH,Suspension,"INSTANTLY prepare Suspension. FIRE to send it forward, steering with your crosshair. REACTIVATE or press FIRE again to detonate, levitating all players.",,2026-10-27T13:00:00.000Z
+BRIMSTONE,,Stim Beacon will show an applied Haste buff to affected players,,2026-10-27T13:00:00.000Z
+CLOVE,,Pick-me-up will show an applied Haste buff,,2026-10-27T13:00:00.000Z
+CLOVE,,"With the newly named Haste buff adding a timer bar to the UI, we've removed the previous timer bar to reduce unnecessary clutter",,2026-10-27T13:00:00.000Z
+MIKS,,Harmonize will show an applied Haste buff to affected players,,2026-10-27T13:00:00.000Z
+NEON,,Our fastest Agent will see an applied Haste buff while using High Gear or Overdrive,,2026-10-27T13:00:00.000Z
+WAYLAY,,"Since they have identical effects, Waylay's Convergent Paths buff has been renamed to the new Haste buff",,2026-10-27T13:00:00.000Z
+CLOVE,Pick-me-up,Bonus movement speed decreased from 15% >>> 10%,,2026-10-27T13:00:00.000Z
+CLOVE,Not Dead Yet,Killing Clove after they cast Not Dead Yet will now grant an ultimate point and signature refresh point to the player who killed them,,2026-10-27T13:00:00.000Z
+JETT,,Removed Jett's passive from the Buy Menu to be consistent with other non-purchaseable passives,,2026-10-27T13:00:00.000Z
+PHOENIX,Overall we are happy with the state of Phoenix's balance. This is a small touch to address the frequency with which he is able to cast his ultimate to be more in line with other characters.,Ultimate points increased from 6 to 7.,,2026-07-28T13:00:00.000Z
+ISO,Double Tap,The speed of equipping your weapon after unequipping Double Tap is now instant.,,2026-07-14T13:00:00.000Z
+YORU,Gatecrash,Active Beacon Duration increased from 15s >>> 20s,,2026-07-14T13:00:00.000Z
+YORU,Fakeout,"To further satisfy his deception fantasy, clones from Fakeout will now hold Yoru's last equipped weapon, instead of defaulting to his strongest weapon.",,2026-07-14T13:00:00.000Z
+CYPHER,Trapwire,Reduced windup from .9s to .7s.,,2026-06-23T13:00:00.000Z
+KILLJOY,Turret,Rate of fire increased by 50%,,2026-06-23T13:00:00.000Z
+KILLJOY,Nanoswarm,Duration increased from 4s to 5s.,,2026-06-23T13:00:00.000Z
+KILLJOY,Alarmbot,Movement speed increased by 50%.,,2026-06-23T13:00:00.000Z
+VETO,Interceptor,Reclaim cooldown reduced from 30s to 20s.,,2026-06-23T13:00:00.000Z
+VETO,Crosscut,Usable area increased from 24m to 30m.,,2026-06-23T13:00:00.000Z
+VETO,Crosscut,Arming time after placing was reduced from 1.5s to .75s.,,2026-06-23T13:00:00.000Z
+SAGE,Healing Orb,Self Heal-Over-Time has increased from 50 to 100.,,2026-06-23T13:00:00.000Z
+DEADLOCK,GravNet,Cooldown reduced from 60s to 50s.,,2026-06-23T13:00:00.000Z
+WAYLAY,,Saturate changed from INSTANT to EQUIP.,,2026-03-31T13:00:00.000Z
+VIPER,,Viper’s Pit chemical cloud has been updated to be more consistent in the way it spreads around map geometry.,,2026-03-31T13:00:00.000Z
+YORU,,Added new voice lines,,2026-03-31T13:00:00.000Z
+MIKS,Harmonize,"EQUIP Harmonize. Target an ally and FIRE to activate a Combat Stim on yourself and the
+								ally that refreshes with each kill. ALT-FIRE to grant Combat Stim to yourself.",,2026-03-17T13:00:00.000Z
+MIKS,M-pulse,"EQUIP M-pulse. ALT-FIRE to toggle between Concuss and Healing outputs. FIRE to throw the
+								device. Upon landing, M-pulse sends out sound waves, either Concussing or Healing
+								players.",,2026-03-17T13:00:00.000Z
+MIKS,Waveform,"EQUIP a Map Targeter. FIRE to set locations. ALT-FIRE to spawn Smokes at selected
+								locations.",,2026-03-17T13:00:00.000Z
+MIKS,Bassquake,"EQUIP Bassquake. FIRE to build up and unleash Sonic Radiance forward, knocking back,
+								Deafening, and Slowing players.",,2026-03-17T13:00:00.000Z
+SAGE,Healing Orb - Ally Targeting,"With the release of Miks, we have updated our Ally Targeting UI/UX and brought those updates to
+						Sage. You’ll see a new widget above the targeted allies head, and an additional highlight around
+						the agent's model. BEFORE AFTER",,2026-03-17T13:00:00.000Z
+SAGE,Crystal Model Update,"We’ve added crystal growths to Sage’s model and key art to show the price she is paying for
+						repeatedly pushing the limits of her power.",,2026-03-17T13:00:00.000Z
+SKYE,Guiding Light,Added 60s Cooldown,,2026-03-17T13:00:00.000Z
+YORU,Gatecrash,Duration beacon is active reduced 30s >> 15s,,2026-03-17T13:00:00.000Z
+YORU,Blindside,Charges reduced from 2 >> 1.,,2026-03-17T13:00:00.000Z
+CLOVE,Ruse,Smoke duration 14s >> 6s (when casted while dead),,2026-03-17T13:00:00.000Z
+CLOVE,Meddle,Area of effect reduced 6m >> 4m,,2026-03-17T13:00:00.000Z
+BREACH,,Added new voice lines.,,2026-03-17T13:00:00.000Z
+GEKKO,,"Since patch 11.08, we’ve heard the feedback that Gekko has felt substantially weaker in
+                                comparison to other Initiators with less of an opportunity to play around his Reclaim.
+                                These changes aim to unify the ruleset for how all of Gekko’s abilities work, give him
+                                more flexibility in reclaiming his Globules, and provide a slight power buff overall.",,2026-02-17T14:00:00.000Z
+GEKKO,Globules,Reclaim timer increased 15s >> 20s,,2026-02-17T14:00:00.000Z
+GEKKO,Mosh Pit,Is now reclaimable,,2026-02-17T14:00:00.000Z
+HARBOR,,"Harbor could use a little bit more power compared to other Controllers. We’re looking to increase the baseline power of his abilities as well as increase the amount of options Harbor has whether that is in Cove uptime, High Tide coverage, or Reckoning placement. We want players to feel confident about the strategies Harbor can offer through his abilities.",,2026-02-03T14:00:00.000Z
+HARBOR,,,,2026-02-03T14:00:00.000Z
+HARBOR,Cove,Cooldown decreased 40s >> 30s,,2026-02-03T14:00:00.000Z
+HARBOR,Cove,Smoke duration increased from 15s >>> 19.25s,,2026-02-03T14:00:00.000Z
+HARBOR,Cove,Health increased from 500 to 680,,2026-02-03T14:00:00.000Z
+HARBOR,Cove,Harbor now re-equips his gun faster after activating Cove,,2026-02-03T14:00:00.000Z
+HARBOR,,,,2026-02-03T14:00:00.000Z
+HARBOR,Storm Surge,Storm Surge now plays audio in world if enemies are hit,,2026-02-03T14:00:00.000Z
+HARBOR,,,,2026-02-03T14:00:00.000Z
+HARBOR,High Tide,Wall height increases 6m >> 8m,,2026-02-03T14:00:00.000Z
+HARBOR,High Tide,Max wall length increased from 50m to 60m,,2026-02-03T14:00:00.000Z
+HARBOR,,,,2026-02-03T14:00:00.000Z
+HARBOR,Reckoning,Wave speed increased by 25%,,2026-02-03T14:00:00.000Z
+HARBOR,Reckoning,Can now re-use the ultimate to stop it in place for 7s.,,2026-02-03T14:00:00.000Z
+REYNA,,Reyna has been ever present and dominating pickrates in ranked for a long time. We’re looking to increase proactive requirements on Reyna after she gets a kill to encourage continued aggression.,,2026-02-03T14:00:00.000Z
+REYNA,Duration in world decreased from 4s >> 3s,*The ability description had incorrectly listed the duration at 3s while they were lasting 4s. The duration now accurately matches the description.,,2026-02-03T14:00:00.000Z
+REYNA,Devour,Overheal applied by Devour is now temporary and lasts 10s,,2026-02-03T14:00:00.000Z
+REYNA,Devour,Healing applied while in Empress is still permanent,,2026-02-03T14:00:00.000Z
+REYNA,Empress,Ult points increased 6 >> 7,,2026-02-03T14:00:00.000Z
+HARBOR,,"The Harbor Rework is finally here! We’ve overhauled Harbor’s abilities to move him into a more aggressive Controller, with a splash of Initiator. High Tide was an iconic part of his kit and we wanted players to be able to carry over their mastery and creativity from High Tide casts in the past. We’ve moved Cove into the signature slot with a few changes to make it easier to place with precision. This should help Harbor find more ways to block vision for his allies from afar or Shield them depending on the situation. Harbor will be gaining a new ability to help with aggressively taking gun fights, Storm Surge! Reckoning also received a massive update, making it easier to set up his allies to flood into enemy territory.",,2025-11-11T14:00:00.000Z
+HARBOR,Cove,Changed to the signature ability slot,,2025-11-11T14:00:00.000Z
+HARBOR,Cove,"EQUIP Cove. ACTIVATE to form a water Smoke in the select location. HOLD FIRE while targeting to move the marker further away and HOLD ALT FIRE to move it closer. RELOAD to toggle targeting view. REACTIVATE to Shield the water Smoke, blocking any bullets that hit it. The Shielded water Smoke can be destroyed.",,2025-11-11T14:00:00.000Z
+HARBOR,High Tide,Changed to a non-signature ability,,2025-11-11T14:00:00.000Z
+HARBOR,High Tide,Cost 300 credits,,2025-11-11T14:00:00.000Z
+HARBOR,Storm Surge (New),"EQUIP Storm Surge. FIRE to throw, creating an explosive whirlpool that Nearsights and Slows enemies within it after a short duration.",,2025-11-11T14:00:00.000Z
+HARBOR,Reckoning,"EQUIP Reckoning. FIRE to unleash the full power of your artifact, releasing a surge of water that barrels forward to Nearsight and Slow enemies that are hit.",,2025-11-11T14:00:00.000Z
+HARBOR,"Read the updated Ability Tooltips below, and check out our social channels for more content breaking down Harbor’s reworked abilities. We’re very excited for you to all dive in!",We've also updated Harbor’s voice lines to reflect his updated abilities. We added conversation voice lines with Tejo and Waylay and have new lines at the start of the match on Abyss and Corrode.,,2025-11-11T14:00:00.000Z
+CLOVE,Ruse,Ruse charges are now restricted to 1 maximum when Clove is dead,,2025-11-11T14:00:00.000Z
+CLOVE,Pick Me Up,"Overheal amount, while Pick Me Up is active, has been reduced from 100 HP → 50 HP",,2025-11-11T14:00:00.000Z
+WAYLAY,,"Waylay has shown a steep mastery curve since her release, where her win rate significantly improves the more games you play. That said, she is still slightly weak at all skill levels. These buffs aim to sharpen her ability to take fights right after exiting Lightspeed and make her Refract loop easier to play around, as well as improve Waylay’s flow and gameplay feel. Saturate does not land at a comparable rate to other abilities, so we’re increasing its power to justify its 300 credit cost.",,2025-06-24T13:00:00.000Z
+WAYLAY,"Refract is faster and smoother, reducing total travel time",Minimum time in refract decreased 0.5s >>> 0.35s,,2025-06-24T13:00:00.000Z
+WAYLAY,"Refract is faster and smoother, reducing total travel time",Maximum time in refract decreased 3s >>> 2s,,2025-06-24T13:00:00.000Z
+WAYLAY,Refract,Unequip time decreased 1.0s >>> 0.8s,,2025-06-24T13:00:00.000Z
+WAYLAY,Refract,Refract delay after reactivation decreased 0.1s >>> 0.05s,,2025-06-24T13:00:00.000Z
+WAYLAY,Lightspeed,Unequip delay decreased 0.8s >>> 0.6s,,2025-06-24T13:00:00.000Z
+WAYLAY,Saturate,Windup before explosion decreased 0.75s >>> 0.6s,,2025-06-24T13:00:00.000Z
+WAYLAY,Saturate,Size increased 10m total size >>> 12m total size,,2025-06-24T13:00:00.000Z
+REYNA,,"Leer is tankier than many of our other comparable shootable objects, and can feel especially so when it’s unclear if you are successfully shooting Leer after it has formed.",,2025-06-24T13:00:00.000Z
+REYNA,Leer,HP decreased 100 >> 80,,2025-06-24T13:00:00.000Z
+REYNA,,Audio and visual hit confirm feedback has been added to shots that land on Leer.,,2025-06-24T13:00:00.000Z
+NEON,,Relay Bolt Windup increased 0.8s >>> 1.0s,,2025-06-24T13:00:00.000Z
+PHOENIX,,Curveball Windup increased 0.5s >>> 0.6s,,2025-06-24T13:00:00.000Z
+WAYLAY,,"Our newest Duelist, Waylay, is joining the roster from Thailand! She’ll be released in a staggered rollout to all regions starting at 9:00 AM PT on March 5th .",,2025-03-04T14:00:00.000Z
+WAYLAY,Refract,INSTANTLY create a beacon of light on the floor. REACTIVATE to speed back to your beacon as a mote of pure light. You are invulnerable as you travel.,,2025-03-04T14:00:00.000Z
+WAYLAY,Light Speed,EQUIP to prepare for a burst of speed. FIRE to dash forward twice. ALT FIRE to dash once. Only your first dash can send you upward.,,2025-03-04T14:00:00.000Z
+WAYLAY,Applies a debuff that SLOWS which impacts:,Fire Rate,,2025-03-04T14:00:00.000Z
+WAYLAY,Applies a debuff that SLOWS which impacts:,Recoil Recovery,,2025-03-04T14:00:00.000Z
+WAYLAY,Applies a debuff that SLOWS which impacts:,Equip Time,,2025-03-04T14:00:00.000Z
+WAYLAY,Applies a debuff that SLOWS which impacts:,Reload Speed,,2025-03-04T14:00:00.000Z
+WAYLAY,Applies a debuff that SLOWS which impacts:,Movement Speed,,2025-03-04T14:00:00.000Z
+WAYLAY,Applies a debuff that SLOWS which impacts:,Jump Speed,,2025-03-04T14:00:00.000Z
+WAYLAY,Convergent Paths,"EQUIP to focus your prismatic power. FIRE to create an afterimage of yourself that projects a beam of light. After a brief delay, you gain a powerful speed boost and the beam expands, HINDERING other players in the area.",,2025-03-04T14:00:00.000Z
+CLOVE,,"Clove has been overperforming in ranked so we’re making some adjustments to their abilities to keep ranked in a healthy spot. Similar to balance changes we’ve made in the past, we’d like to continue encouraging Controller diversity by making space for other Agents who have similar strengths.",,2025-03-04T14:00:00.000Z
+CLOVE,Meddle,No longer explodes after a 1.3 second timer after casting. Explodes after contact with the ground after a 0.75s timer.,,2025-03-04T14:00:00.000Z
+CLOVE,Meddle,Projectile audio has been updated to fit this new behavior.,,2025-03-04T14:00:00.000Z
+CLOVE,Ruse,Cooldown duration increased from 30s >>> 40s,,2025-03-04T14:00:00.000Z
+CLOVE,Pick Me Up,Health buff duration increased from 8s >>> 10s,,2025-03-04T14:00:00.000Z
+CLOVE,Pick Me Up,Move speed duration reduced from 8s >>> 3s,,2025-03-04T14:00:00.000Z
+DEADLOCK,"As Deadlock players have improved over time, her reactive stalling potential is solidifying as one of her unique strengths. As a result, we want to encourage GravNet as one of her primary tools to pounce onto targets that are disrespecting the areas she controls.","To account for GravNet swapping to a signature, we’ll be shrinking the size and increasing some of its counterplay. Since the skill will be cast more frequently, we’d like to encourage plays to be more intentional and precise about placement.",,2025-03-04T14:00:00.000Z
+DEADLOCK,Barrier Mesh,Changed to a non-signature ability,,2025-03-04T14:00:00.000Z
+DEADLOCK,Barrier Mesh,Cost: Free >>> 400 credits,,2025-03-04T14:00:00.000Z
+DEADLOCK,GravNet,Changed to a signature ability with 40s cooldown,,2025-03-04T14:00:00.000Z
+DEADLOCK,GravNet,Total Size decreased from 16m >>> 13m,,2025-03-04T14:00:00.000Z
+DEADLOCK,GravNet,Gravnet’s Projectile audio loop has been updated to increase its gameplay clarity.,,2025-03-04T14:00:00.000Z
+DEADLOCK,GravNet,"When an enemy removes the net, the audio cue of the net breaking now plays for all players.",,2025-03-04T14:00:00.000Z
+ISO,,"Since his updates in patches 8.11 and 9.0, Iso has been a bit of a one-trick pony around his Double Tap. These changes are intended to redistribute power around Iso’s kit to make him a more well-rounded agent. Changes to Undercut intend to increase his overall strategic options, and Contingency is receiving an alternate cast paradigm to support slower play and its ability to iso late angles.",,2025-03-04T14:00:00.000Z
+ISO,,"We’re reverting Iso’s Double Tap tagging change, as trying to kill Iso through his shield is already a highly frustrating and powerful moment.",,2025-03-04T14:00:00.000Z
+ISO,,Changes to Kill Contract are intended to ensure that won duels in the arena always spawn an orb.,,2025-03-04T14:00:00.000Z
+ISO,Undercut,Reduced charges from 2 >>> 1,,2025-03-04T14:00:00.000Z
+ISO,Undercut,Cost increased from 200 >>> 300 credits,,2025-03-04T14:00:00.000Z
+ISO,Undercut,Now applies Suppression alongside Vulnerability for the same duration (4s) on players hit.,,2025-03-04T14:00:00.000Z
+ISO,Now has an Alt-Fire cast that makes the wall move at half the speed,This does not affect the duration of Contingency.,,2025-03-04T14:00:00.000Z
+ISO,Double Tap,Iso now receives a Heavy Penetration tag rather than a Wall Penetration tag when the shield is broken. This means he’s slowed more upon his shield breaking.,,2025-03-04T14:00:00.000Z
+ISO,Kill Contract,"BUGFIX: If Iso DOES NOT have Double Tap’s buff applied, the ultimate will now automatically apply it so that won ultimate duels always spawn an orb.",,2025-03-04T14:00:00.000Z
+NEON,,VFX around Neon’s Overdrive have been updated to make Neon and her directionality clearer when she is fighting with Overdrive active.,,2025-03-04T14:00:00.000Z
+TEJO,,"Since Tejo’s release, we’ve been monitoring the interaction where Tejo can destroy Killjoy’s Lockdown with his Guided Salvo.",,2025-03-04T14:00:00.000Z
+TEJO,"For context, we typically prefer when abilities interact in a way that allows players to be creative in how they use them to respond to other utility used in the round.","But in the case of Tejo’s Guided Salvo cooldown model, both players get into unsatisfying stalemates where neither Tejo nor Killjoy want to be the first person to cast. So we’re changing Guided Salvo so that it requires more teamplay to successfully destroy a Killjoy ultimate. Killjoy’s Lockdown will now survive Guided Salvo with 5 HP.",,2025-03-04T14:00:00.000Z
+TEJO,Guided Salvo,Damage decreased from 70 >>> 65,,2025-03-04T14:00:00.000Z
+TEJO,Guided Salvo,Guided Salvo now does 50% damage to non-player objects.,,2025-03-04T14:00:00.000Z
+NEON,High Gear,High Gear’s description in the Ability Info Panel has been updated to match the ability’s bindings.,,2024-07-30T13:00:00.000Z
+SOVA,Hunter’s Fury,"Hunter’s Fury applies less drag on your controls, allowing more control over the charge’s duration.",,2024-07-30T13:00:00.000Z
+REYNA,Team Deathmatch only changes:,Leer (C) cooldown increased 44s >>> 51s,,2023-11-14T14:00:00.000Z
+REYNA,Team Deathmatch only changes:,Empress (X) will charge 14% slower,,2023-11-14T14:00:00.000Z
+FADE,,"In Team Deathmatch, Fade’s utility can feel a little hard to use and capitalize off of. These changes aim to help her track down her enemies and close in on them.",,2023-11-14T14:00:00.000Z
+REYNA,,Yellow indicator removed from Leer (C),,2023-04-11T14:00:00.000Z
+KAY/O,,Critical danger indicator added to FRAG/ment (C),,2023-04-11T14:00:00.000Z
+SKYE,,Yellow indicator removed from Seekers (X),,2023-04-11T14:00:00.000Z
+KILLJOY,,Yellow indicator removed from Alarmbot (E),,2023-04-11T14:00:00.000Z
+CHAMBER,,Yellow indicator removed from Trademark (C),,2023-04-11T14:00:00.000Z
